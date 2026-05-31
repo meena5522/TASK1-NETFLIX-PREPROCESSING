@@ -1,8 +1,10 @@
  Task 1 - Netflix Dataset Preprocessing
+
  
  Objective
 
 To clean and preprocess the Netflix dataset for machine learning applications.
+
 
 Tools Used
 
@@ -19,6 +21,7 @@ Tools Used
 .Seaborn
 
 .Scikit-learn
+
 
 Steps Performed
 
@@ -45,6 +48,7 @@ Steps Performed
 .Performed exploratory data analysis (EDA)
 
 .Saved the cleaned dataset
+
 
 Dataset
 
