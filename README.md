@@ -4,12 +4,19 @@
 To clean and preprocess the Netflix dataset for machine learning applications.
 
 Tools Used
+
 .Google Colab
+
 .Python
+
 .Pandas
+
 .NumPy
+
 .Matplotlib
+
 .Seaborn
+
 .Scikit-learn
 
 Steps Performed
